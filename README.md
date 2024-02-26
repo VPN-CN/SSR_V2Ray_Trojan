@@ -17,7 +17,6 @@ WgetCloud是一家提供高速稳定的网络加速服务的高端机场，支�
 
 WgetCloud机场运营长期提供了一些优惠活动，比如新用户注册可以获得8折充值优惠券，以及满额抽奖活动，用户有机会赢取优惠券或流量包等奖品。
 
-![Wgetcloud.jpg](https://s2.loli.net/2024/02/19/SWPeAQ4u7dyRGcs.jpg)
 
 -----
 
