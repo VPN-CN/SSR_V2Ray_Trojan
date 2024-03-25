@@ -1,6 +1,6 @@
 # 2024年四款主流翻墙机场推荐︱稳定好用超过翻墙VPN梯子
 
-机场节点梯子是专门提供翻墙的网络代理服务，如Shadowsocks、V2ray、Trojan等翻墙协议的节点服务器。它们之所以称为“机场”，是因为这些服务最初使用的Shadowsocks和ShadowsocksR（简称SS/SSR）协议，其翻墙客户端是一架纸飞机。科学上网用户通过将这些机场节点服务订阅文件输入到“飞机”（即Shadowsocks客户端）中，从而实现绕过网络封锁。相较传统翻墙VPN梯子或加速器，中国用户使用翻墙机场不仅更稳定快速，也支持多种网络插件如Clash、v2rayN、v2rayNG、Shadowrocket、sing-box、Clash Verge等。
+机场节点梯子是专门提供翻墙的网络代理服务，如Shadowsocks、V2ray、Trojan等翻墙协议的节点服务器。它们之所以称为“翻墙机场”，是因为这些服务最初使用的Shadowsocks和ShadowsocksR（简称SS/SSR）协议，其翻墙客户端是一架纸飞机。科学上网用户通过将这些机场节点服务订阅文件输入到“飞机”（即Shadowsocks客户端）中，从而实现绕过网络封锁。相较传统翻墙VPN梯子或加速器，中国用户使用翻墙机场不仅更稳定快速，也支持多种网络插件如Clash、v2rayN、v2rayNG、Shadowrocket、sing-box、Clash Verge等。
 
 **这里我们收集主流稳定好用的翻墙机场推荐给大家，从机场线路节点区分包含了直连机场、BGP中转机场、IPLC专线机场、IEPC专线机场，从机场协议区分包含了Shadowsocks节点、SSR节点、V2Ray节点、Trojan节点、Clash节点，从机场特色区分包含了高端机场、老牌机场、便宜机场、十元机场、性价比机场。**
 
