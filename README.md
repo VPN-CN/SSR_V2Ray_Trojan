@@ -4,7 +4,7 @@
 
 **这里收集主流稳定好用的翻墙机场推荐给大家，从机场线路节点区分包含了直连机场、BGP中转机场、IPLC专线机场、IEPC专线机场，从机场协议区分包含了Shadowsocks节点、SSR节点、V2Ray节点、Trojan节点、Clash节点，从机场特色区分包含了高端机场、老牌机场、便宜机场、十元机场、性价比机场。**
 
-![主流机场节点.png](https://s2.loli.net/2024/02/26/fbKYRE6WNAZGzCj.png)
+![主流机场节点.png](https://www.cnvintage.org/assets/files/2025-03-05/1741150645-773068-image.png)
 
 如果已经购买了机场，为了防范风险可以在这里关注[机场跑路名单](https://ihaoke.vip/%e6%9c%ba%e5%9c%ba%e8%b7%91%e8%b7%af/)，也可以在这选择合适的翻墙插件配合使用。
 
